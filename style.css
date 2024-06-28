@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.gee{
+    margin-left: 150px;
+    height: 20px;
+}
+.fss{
+    font-size: 14px;
+}
+.bgg{
+    width: 40px;
+}
+.pic{
+    height: 80vh;
+}
+.dhg{
+    display: flex;
+    gap: 30px;
+    margin-top: 100px;
+}
+.one{
+    width: 270px;
+}
+.des{
+    padding-left: 15px;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 600;
+}
+.next{
+    padding-left: 15px;
+}
+.big{
+    background-image: url('images/2\ phones.webp');
+    height: 100vh;
+    background-size: contain;
+}
+.ios{
+    padding-top: 200px;
+}
